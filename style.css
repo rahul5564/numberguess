@@ -6,8 +6,8 @@ body{
     /* background-color: rgb(87, 63, 63); */
     /* color: white; */
     /* background-repeat: no-repeat; */
-    background-size: cover;
-     background-image: url('https://www.onlygfx.com/wp-content/uploads/2017/09/crayon-number-cover.jpg'); 
+    /* background-size: cover; */
+     background-image: url('https://www.onlygfx.com/wp-content/uploads/2017/09/crayon-number-cover.jpg');  */
 }
 .max-num{
     background-color: lightblue;
